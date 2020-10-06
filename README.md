@@ -8,4 +8,8 @@ My name is Colton Wilson and I am a junior at Northwest Missouri State Universit
 ## Step 1: Downloading Belkasoft Evidence Center
 The first step is to download the evidence center software itself. To start, go to the following link to download the software: https://belkasoft.com/ec. This is the page you will land on: ![Belkasoft Main Page](dfbec1.PNG)
 
-The next thing to do is to click on the "Download Now" box on the right of the screen. The next screen you will be taken to is this: 
+The next thing to do is to click on the "Download Now" box on the right of the screen. The next screen you will be taken to is this: ![Belkasoft Email Screen](dfbec2.PNG)
+
+After you enter in your business email, the last screen you will be taken to is this: ![Belkasoft Information Screen](dfbec3.PNG)
+
+This screen asks for your information so Belkasoft can create a request to download their software. After you enter the necessary information, the company will process your information and approve or deny your request for the download within one business day. 
