@@ -17,7 +17,7 @@ This screen asks for your information so Belkasoft can create a request to downl
 ## Step 2: Acquiring Cloud Data using Belkasoft Evidence Center
 Once you have downloaded Belkasoft Evidence Center from the email sent to you containing the file, open the program and it will take you to the home screen. ![home screen](dfbec4.PNG)
 
-After you create a new case, the drive acquisiton screen will pop up where you can choose what type of drive to acquire. In this case, we will be focusing on the cloud tab. ![driveacq](dfbec5.png) 
+After you create a new case, the drive acquisiton screen will pop up where you can choose what type of drive to acquire. In this case, we will be focusing on the cloud tab. ![driveacq](dfbec5.PNG) 
 
 Then you are able to choose from a variety of different options from Email to Google/Apple clouds and others as shown in the photo. For this demonstration, we will be looking at the Apple iCloud. ![cloudacqpage](dfbec6.PNG)
 
