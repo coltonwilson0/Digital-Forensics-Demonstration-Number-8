@@ -19,9 +19,9 @@ Once you have downloaded Belkasoft Evidence Center from the email sent to you co
 
 After you create a new case, the drive acquisiton screen will pop up where you can choose what type of drive to acquire. In this case, we will be focusing on the cloud tab. ![driveacq](dfbec5.png) 
 
-Then you are able to choose from a variety of different options from Email to Google/Apple clouds and others as shown in the photo. For this demonstration, we will be looking at the Apple iCloud. ![cloudacqpage](dfbec6.png)
+Then you are able to choose from a variety of different options from Email to Google/Apple clouds and others as shown in the photo. For this demonstration, we will be looking at the Apple iCloud. ![cloudacqpage](dfbec6.PNG)
 
-Once you input the email and password you have (I used mine for the demonstration so my password is blacked out) you are then asked to choose what specific data you want to acquire. ![icloudinfo](dfbec7.png) ![specificdata](dfbec8.png)
+Once you input the email and password you have (I used mine for the demonstration so my password is blacked out) you are then asked to choose what specific data you want to acquire. ![icloudinfo](dfbec7.PNG) ![specificdata](dfbec8.PNG)
 
 After that, you will click next and all the data that you selected will be acquired! You then are able to use the data however you need to in order to acquire the necessary information needed!
 
