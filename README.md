@@ -25,6 +25,9 @@ Once you input the email and password you have (I used mine for the demonstratio
 
 After that, you will click next and all the data that you selected will be acquired! You then are able to use the data however you need to in order to acquire the necessary information needed!
 
+## Link to VidGrid
+https://use.vg/ZX6yZC 
+
 ### Sources
 https://belkasoft.com/get 
 https://belkasoft.com/tutorials 
